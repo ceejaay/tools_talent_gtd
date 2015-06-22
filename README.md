@@ -7,3 +7,11 @@ Production over tools
 
 2. Tools are only to get the work done. 
   - Don't get distracted by the tools.
+
+
+<form action="/" method="post">
+
+ <input type="text" name="premise" > 
+
+
+  <input type="submit">
